@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/JohnSundell/Publish/commit/58e943047882a5a6d8135ae2711be8ba7fba57c4",
       "git:hexsha": "58e943047882a5a6d8135ae2711be8ba7fba57c4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/JohnSundell/Publish/commit/ef3cd95bc4b4307c516b7538c6c2dfcc943fc7a8",

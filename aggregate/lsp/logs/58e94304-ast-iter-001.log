@@ -1,0 +1,7 @@
+[2026-11-09T15:13:44Z] === AST ITERATION 1 START | repo=JohnSundell/Publish sha=58e94304 ===
+[2026-11-09T15:13:44Z] [iter=1] PHASE START: ast repo=JohnSundell/Publish sha=58e94304
+[2026-11-09T15:13:44Z] [iter=1] Building AST aggregate chunks
+[2026-11-09T15:14:18Z] [iter=1] AST chunks built count=1 triples=292604
+[2026-11-09T15:14:18Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/58e943047882a5a6d8135ae2711be8ba7fba57c4/.complete
+[2026-11-09T15:14:18Z] [iter=1] PHASE END: ast elapsed_s=34 elapsed_min=0.6
+[2026-11-09T15:14:18Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
